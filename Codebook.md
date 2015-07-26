@@ -4,55 +4,55 @@ Note: Since the original features are normalized and bounded in [-1,1], the aver
 
 Column number, name and description:
 
-1.	Activity.Label	
+1	Activity.Label	
 
 Activity performed by subject containing one of six values - "WALKING", "STANDING", "SITTING", "LAYING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS"
 
-2.	Subject.ID
+2	Subject.ID
 
 The subject performing the activity - value from 1 to 30
 
-3.  Average of tBodyAcc-mean()-X
+3  Average of tBodyAcc-mean()-X
 
 Average of the mean body acceleration in the time domain along the X axis for the given subject and activity
 
-4.  Average of tBodyAcc-mean()-Y
+4  Average of tBodyAcc-mean()-Y
 
 Average of the mean body acceleration in the time domain along the Y axis for the given subject and activity
 
-5.  Average of tBodyAcc-mean()-Z					
+5  Average of tBodyAcc-mean()-Z					
 
 Average of the mean body acceleration in the time domain along the Z axis for the given subject and activity
 
-6.  Average of tGravityAcc-mean()-X
+6  Average of tGravityAcc-mean()-X
 
 Average of the mean gravity acceleration in the time domain along the X axis for the given subject and activity
 
-7.	Average of tGravityAcc-mean()-Y
+7	Average of tGravityAcc-mean()-Y
 
 Average of the mean gravity acceleration in the time domain along the Y axis for the given subject and activity
 
-8.	Average of tGravityAcc-mean()-Z
+8	Average of tGravityAcc-mean()-Z
 
 Average of the mean gravity acceleration in the time domain along the Z axis for the given subject and activity
 
-9.  Average of tBodyAccJerk-mean()-X
+9  Average of tBodyAccJerk-mean()-X
 
 Average of the mean body acceleration for jerk signal in the time domain along the X axis for the given subject and activity
 
-10. Average of tBodyAccJerk-mean()-Y
+10 Average of tBodyAccJerk-mean()-Y
 
 Average of the mean body acceleration for jerk signal in the time domain along the Y axis for the given subject and activity
 
-11. Average of tBodyAccJerk-mean()-Z
+11 Average of tBodyAccJerk-mean()-Z
 
 Average of the mean body acceleration for jerk signal in the time domain along the Z axis for the given subject and activity
 
-12. Average of tBodyGyro-mean()-X	
+12 Average of tBodyGyro-mean()-X	
 
 Average of the mean body gyro in the time domain along the X axis for the given subject and activity
 
-13. Average of tBodyGyro-mean()-Y
+13 Average of tBodyGyro-mean()-Y
 
 Average of the mean body gyro in the time domain along the Y axis for the given subject and activity
 
