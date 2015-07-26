@@ -2,7 +2,9 @@
 This repository contains files related to Coursera's project for course on Gathering and Cleaning Data. It contains the following files.
 
 README.md - this is the readme file for this repository
+
 run_analysis.R - this file contains the script to process the Samsung data and create the output file project_output.txt
+
 Codebook.md - this file explains the variables in the project_output.txt file
 
 Explanation of the steps in run_analysis.R:
